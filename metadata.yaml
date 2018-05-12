@@ -1,0 +1,27 @@
+_repo: The-116th-Battalion-in-France_45860
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45860-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Allen, E. P. S.
+    birthdate: 1885
+    gutenberg_agent_id: '43501'
+    url: http://www.gutenberg.org/2009/agents/43501
+description: ''
+gutenberg_issued: '2014-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- France'
+- !lcsh 'Canada. Canadian Army. Battalion, 116th -- History'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Canada'
+- !lcc 'D501'
+title: The 116th Battalion in France
+url: http://www.gutenberg.org/ebooks/45860
